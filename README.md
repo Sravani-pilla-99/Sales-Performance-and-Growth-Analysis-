@@ -1,6 +1,6 @@
 # TechForge Sales Performance & Growth Analysis
 
-This project focuses on analyzing multi-year sales data for **TechForge Supplies** to uncover key market performance trends, identify customer growth opportunities, and provide data-driven recommendations to optimize business strategies.
+This project focuses on analyzing multi-year sales data(0.7 Million Records) for **TechForge Supplies** to uncover key market performance trends, identify customer growth opportunities, and provide data-driven recommendations to optimize business strategies.
 
 ## **Project Highlights:**
 - **Market Performance Analysis:** Evaluated sales performance across global markets, identifying key regions with **up to 15% target variances**, highlighting underperforming areas.
